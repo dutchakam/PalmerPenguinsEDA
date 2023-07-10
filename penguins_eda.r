@@ -1,3 +1,5 @@
+install.packages("tidyverse")
+library(tidyverse)
 install.packages("PalmerPenguins")
 library(palmerpenguins)
 data("penguins")
